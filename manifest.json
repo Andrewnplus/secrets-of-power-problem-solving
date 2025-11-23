@@ -1,0 +1,15 @@
+{
+  "name": "別煩了，問題其實不難解決",
+  "short_name": "別煩了，問題其實不難解決",
+  "start_url": "/secrets-of-power-problem-solving/",
+  "scope": "/secrets-of-power-problem-solving/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/secrets-of-power-problem-solving/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
